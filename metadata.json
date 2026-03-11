@@ -1,0 +1,7 @@
+{
+  "name": "QuickOffice",
+  "description": "A Duolingo-style interactive platform for mastering Microsoft Office. Learn Excel, Word, and PowerPoint through bite-sized, gamified lessons with AI-powered feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
